@@ -1,1 +1,1 @@
-Create README.md
+##팀 협업 연습용 프로젝트입니다.
